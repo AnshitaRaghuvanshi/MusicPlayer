@@ -19,30 +19,30 @@ let playing_song = false;
 let  track = document.createElement('audio');
 
 let Songs = [
-    {name: "first song",
+    {name: "Animal",
      path: "media/track1.mp3",
      img: "media/image1.jpg",
-     singer: "first singer"
+     singer: "Troye Sivan"
     },
-    {name: "second song",
+    {name: "Flicker",
      path: "media/track2.mpeg",
      img: "media/image2.jpg",
-     singer: "second singer"
+     singer: "Niall Horan"
     },
-    {name: "third song",
+    {name: "Look Alike",
      path: "media/track3.mp3",
      img: "media/image3.jpg",
-     singer: "third singer"
+     singer: "Conan Gray"
     },
-    {name: "fourth song",
+    {name: "Cradles",
      path: "media/track4.mp3",
      img: "media/image4.jpg",
-     singer: "fourth singer"
+     singer: "sub Urban"
     },
-    {name: "fifth song",
+    {name: "Bellyache",
      path: "media/track5.mp3",
      img: "media/image5.jpg",
-     singer: "fifth singer"
+     singer: "Billie Eilish"
     }
 
 ];  
