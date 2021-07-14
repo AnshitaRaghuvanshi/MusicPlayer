@@ -20,27 +20,27 @@ let  track = document.createElement('audio');
 
 let Songs = [
     {name: "Animal",
-     path: "media/track1.mp3",
+     path: "media/Track1.mp3",
      img: "media/image1.jpg",
      singer: "Troye Sivan"
     },
     {name: "Flicker",
-     path: "media/track2.mpeg",
+     path: "media/Track2.mpeg",
      img: "media/image2.jpg",
      singer: "Niall Horan"
     },
     {name: "Look Alike",
-     path: "media/track3.mp3",
+     path: "media/Track3.mp3",
      img: "media/image3.jpg",
      singer: "Conan Gray"
     },
     {name: "Cradles",
-     path: "media/track4.mp3",
+     path: "media/Track4.mp3",
      img: "media/image4.jpg",
      singer: "sub Urban"
     },
     {name: "Bellyache",
-     path: "media/track5.mp3",
+     path: "media/Track5.mp3",
      img: "media/image5.jpg",
      singer: "Billie Eilish"
     }
